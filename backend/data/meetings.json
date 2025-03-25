@@ -1,0 +1,20 @@
+{
+    "meetings": [
+        {
+            "id": "1711223345",
+            "title": "Reunión de Ejemplo",
+            "organizer": "Juan Pérez",
+            "participants": [
+                {
+                    "name": "Ana Gómez",
+                    "data": {
+                        "problema": "Falta de comunicación en el equipo"
+                    }
+                }
+            ],
+            "problem": "Falta de comunicación en el equipo",
+            "summary": "Se discutió sobre mejorar la comunicación en el equipo mediante reuniones diarias.",
+            "conclusion": "Se implementará un daily standup para mejorar la comunicación."
+        }
+    ]
+}

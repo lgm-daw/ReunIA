@@ -1,0 +1,9 @@
+.env
+.venv/
+__pycache__/.
+sdk_version.py
+/backend/.env
+/frontend/.env
+/backend/.env.back
+/frontend/.env.front
+

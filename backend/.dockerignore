@@ -1,0 +1,7 @@
+main.py
+run_app.py
+sdk_version.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
