@@ -27,7 +27,7 @@ Este proyecto es una aplicación web que usa FastAPI para el backend y Streamlit
 
 ### 🚀 Cómo ejecutar la aplicación en local:
 
-1️⃣ Clonar el repositorio: git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git cd TU_REPOSITORIO
+Clonar el repositorio
 
 
 ### **Backend**
