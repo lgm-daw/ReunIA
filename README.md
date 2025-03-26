@@ -1,5 +1,5 @@
 # **ReunIA** -*Free Your Time, Boost Your Team*- 
-## Es una aplicación impulsada por IA diseñada para **optimizar la gestión de reuniones, eliminando las innecesarias e improductivas, mejorando la productividad del equipo**.  
+## Es una innovadora aplicación impulsada por inteligencia artificial, diseñada para **transformar la gestión de reuniones**. Al **eliminar las reuniones innecesarias e improductivas**, ReunIA te ayuda a **maximizar la productividad de tu equipo** y a **liberar tiempo valioso** para enfocarse en lo que realmente importa. 
 
 
 
