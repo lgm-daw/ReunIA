@@ -1,28 +1,33 @@
-**ReunIA** es una aplicación impulsada por IA diseñada para **optimizar la gestión de reuniones y mejorar la productividad del equipo**.  
+# **ReunIA** *Free Your Time, Boost Your Team* es una aplicación impulsada por IA diseñada para **optimizar la gestión de reuniones, eliminando las innecesarias e improductivas, mejorando la productividad del equipo**.  
+
 
 
 ## 🚀 **Características principales**  
-✅ **Asistente IA** – Proporciona recomendaciones sobre la necesidad de reuniones.  
+✅ **Asistente IA** – Proporciona recomendaciones sobre la necesidad o no de reuniones.  
 ✅ **Seguimiento de tareas** – Analiza el progreso del equipo y detecta bloqueos.  
-✅ **Generación de reportes** – Crea resúmenes automáticos de estado del proyecto.  
-✅ **Interfaz web básica** – Permite interactuar con la IA a través de un chat.  
+✅ **Generación de reportes y recomendaciones** – Crea resúmenes automáticos de estado del proyecto bajo demanda y genera recomendaciones.  
+✅ **Interfaz web básica** – Permite interactuar con la IA a través de un chat, sin necesidad de emails, formularios o mensajería instantánea.  
 
 
 
-🧠 Chatbot con IA - FastAPI & Streamlit
+## 🧠 Chatbot con IA - FastAPI & Streamlit
 Este proyecto es una aplicación web que usa FastAPI para el backend y Streamlit para el frontend. La app permite interactuar con un chatbot de OpenAI. 🚀
 
 
-📌 Tecnologías utilizadas
-🖥️ Backend: FastAPI, Uvicorn
-🎨 Frontend: Streamlit
-🔌 API: OpenAI API
-🐳 Despliegue: Docker & Google Cloud Run
-🚀 Cómo ejecutar la aplicación en local
-1️⃣ Clonar el repositorio
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git cd TU_REPOSITORIO
+### 📌 Tecnologías utilizadas
 
----
+🖥️ Backend: FastAPI, Uvicorn
+
+🎨 Frontend: Streamlit
+
+🔌 API: OpenAI API
+
+🐳 Despliegue: Docker & Google Cloud Run
+
+### 🚀 Cómo ejecutar la aplicación en local:
+
+1️⃣ Clonar el repositorio: git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git cd TU_REPOSITORIO
+
 
 **Backend**
 
@@ -38,7 +43,6 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 API Docs: http://localhost:8000/docs
 
----
 
 **Frontend**
 
