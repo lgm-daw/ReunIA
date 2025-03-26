@@ -1,4 +1,5 @@
-# **ReunIA** *Free Your Time, Boost Your Team* es una aplicación impulsada por IA diseñada para **optimizar la gestión de reuniones, eliminando las innecesarias e improductivas, mejorando la productividad del equipo**.  
+# **ReunIA** *Free Your Time, Boost Your Team* 
+## es una aplicación impulsada por IA diseñada para **optimizar la gestión de reuniones, eliminando las innecesarias e improductivas, mejorando la productividad del equipo**.  
 
 
 
@@ -29,7 +30,7 @@ Este proyecto es una aplicación web que usa FastAPI para el backend y Streamlit
 1️⃣ Clonar el repositorio: git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git cd TU_REPOSITORIO
 
 
-**Backend**
+### **Backend**
 
 Instalar dependencias:
 
@@ -44,7 +45,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 API Docs: http://localhost:8000/docs
 
 
-**Frontend**
+### **Frontend**
 
 Instalar dependencias:
 
