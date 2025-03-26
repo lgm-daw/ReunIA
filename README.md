@@ -22,7 +22,7 @@ Este proyecto es una aplicación web que usa FastAPI para el backend y Streamlit
 1️⃣ Clonar el repositorio
 git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git cd TU_REPOSITORIO
 
-
+---
 
 **Backend**
 
@@ -38,7 +38,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 API Docs: http://localhost:8000/docs
 
-
+---
 
 **Frontend**
 
@@ -55,7 +55,7 @@ streamlit run frontend.py
 Frontend: http://localhost:8501
 
 
-
+---
 
 
 ## 🚀 **Mejoras Futuras**  
@@ -65,7 +65,7 @@ Frontend: http://localhost:8501
 - 🔹 Integración con herramientas de gestión de proyectos.
   
 
-
+---
 
 
 
