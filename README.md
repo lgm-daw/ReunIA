@@ -75,4 +75,4 @@ Frontend: http://localhost:8501
 
 
 
-© 2023 ReunIA. Licensed under the MIT License.
+© 2025 ReunIA. Licensed under the MIT License.
