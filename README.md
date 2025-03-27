@@ -73,9 +73,4 @@ Frontend: http://localhost:8501
 ---
 
 
-
-
-📜 **Licencia:**  
-Este código está licenciado bajo Creative Commons BY-NC 4.0.  
-Puedes usarlo y modificarlo, pero **NO con fines comerciales**.  
-Más detalles en el archivo LICENSE.
+© 2025 ReunIA. Licensed under the MIT License
